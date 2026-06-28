@@ -7,4 +7,12 @@ A collection of code in C-language.
 * How to write code
 * Hello World code
 
+---
+## Code 2: Data types and Arthmetic operations
+* Variables
+* Data types
+* Arthmetic operations
+* Format Specifier
+
+---
 
