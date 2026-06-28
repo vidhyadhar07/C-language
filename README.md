@@ -1,2 +1,10 @@
 # C-language
-Bassic codes in C-language I learned in my university
+A collection of code in C-language.
+
+## Code 1: Introduction to C-language with basic code
+* Introduction to C
+* Structure of C
+* How to write code
+* Hello World code
+
+
