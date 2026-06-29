@@ -47,22 +47,18 @@ int main() {
     int sum = 0;
     float avg;
 
-    // Input array size
     printf("Enter the number of elements: ");
     scanf("%d", &n);
 
     int arr[n];
 
-    // Input array elements
     printf("Enter %d numbers:\n", n);
     for(i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
 
-    // Initialize max and min with first element
     max = min = arr[0];
 
-    // Loop through array to find max, min and sum
     for(i = 0; i < n; i++) {
         if(arr[i] > max)
             max = arr[i];
@@ -71,10 +67,8 @@ int main() {
         sum += arr[i];
     }
 
-    // Calculate average
     avg = (float)sum / n;
 
-    // Display results
     printf("Maximum = %d\n", max);
     printf("Minimum = %d\n", min);
     printf("Sum = %d\n", sum);
