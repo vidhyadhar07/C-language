@@ -6,7 +6,7 @@ int main() {
 
     // Input from user
     printf("Enter day number (1-7): ");
-    scanf("%d", &day);
+    scanf("%d", &day); 
 
     // Switch statement
     switch(day) {
