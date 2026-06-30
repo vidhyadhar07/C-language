@@ -2,7 +2,7 @@
 #include<string.h>
 int main(){
   /*
-    char name[]={'v','i','d','h','y','a','\0'};
+    char name[]={'v','i','d','h','y','a','\0'}; 
     printf("Name is %s ",name);
   printf("Length of name: %d\n", strlen(name)); */
 
