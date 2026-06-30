@@ -5,7 +5,7 @@ int main(){
 long income=150000;
 float temperature=36.8;
 double pi=3.142857;
-char var[]= "vidhyadhar";
+char var[]= "vidhyadhar"; 
   printf("Grade=%d\n",grade);
   printf("Income=%ld\n",income);
   printf("Temperature=%f\n",temperature);
