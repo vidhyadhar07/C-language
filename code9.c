@@ -3,7 +3,7 @@
 int main() {
   /*
     int n, i = 1;
-    long long factorial = 1; // long long for data type 
+    long long factorial = 1; // long long for data type  
 
     printf("Enter a number: ");
     scanf("%d", &n);
