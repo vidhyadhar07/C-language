@@ -15,7 +15,7 @@ int c=20;
   
 //Type conversion
   int a = 7;
-    float b = 9.8;
+    float b = 9.8; 
     printf("Value of a: %.2f\n", (float)a);        //Type conversion from int to float
     printf("Value of a: %f\n", (float)a);
     printf("Value of b: %d\n", (int)b);            //Type conversion from float to int
